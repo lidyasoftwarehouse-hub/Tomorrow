@@ -5,11 +5,11 @@
 
 ## 1. Introduction
 
-Welcome to Travel Chess. This Privacy Policy explains how we handle information when you use our mobile application ("App"). We are committed to protecting your privacy.
+Welcome to Tomorrow: Smart Alarms. This Privacy Policy explains how we handle information when you use our mobile application ("App"). We are committed to protecting your privacy.
 
 ## 2. Information We Do Not Collect
 
-Travel Chess is designed to work **offline** and **without user accounts**. We do **not** collect, store, or share:
+Tomorrow: Smart Alarms is designed to work **offline** and **without user accounts**. We do **not** collect, store, or share:
 
 - Personal identification information (name, email, phone number)
 - Location data
@@ -24,11 +24,11 @@ All game data (settings, progress, preferences) is stored **locally on your devi
 
 ## 4. Third-Party Services
 
-Travel Chess does **not** integrate any third-party SDKs, analytics tools, advertising networks, or social media platforms.
+Tomorrow: Smart Alarms does **not** integrate any third-party SDKs, analytics tools, advertising networks, or social media platforms.
 
 ## 5. Children's Privacy
 
-Travel Chess is suitable for all ages, including children under 13. Since we do not collect any personal data, the App complies with the Children's Online Privacy Protection Act (COPPA) and similar regulations.
+Tomorrow: Smart Alarms is suitable for all ages, including children under 13. Since we do not collect any personal data, the App complies with the Children's Online Privacy Protection Act (COPPA) and similar regulations.
 
 ## 6. Changes to This Privacy Policy
 
@@ -42,4 +42,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ---
 
-*This privacy policy was created for Travel Chess mobile application.*
+*This privacy policy was created for Tomorrow: Smart Alarms mobile application.*
