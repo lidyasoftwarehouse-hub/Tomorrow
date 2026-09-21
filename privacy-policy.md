@@ -1,45 +1,88 @@
-# Privacy Policy
+# Privacy Policy — Tomorrow
 
-**Tomorrow**
-**Last updated:** April 5, 2026
+**Last updated: 12 September 2026**
 
-## 1. Introduction
+> **Draft.** This describes what the app actually does today, checked against
+> the source. It is not legal advice — have it reviewed before publishing, and
+> revisit it the moment analytics, accounts or a backend are added.
 
-Welcome to Tomorrow: Smart Alarms. This Privacy Policy explains how we handle information when you use our mobile application ("App"). We are committed to protecting your privacy.
+Tomorrow works out when your day should start. To do that it reads things that
+are personal to you. This page explains what it reads, where that stays, and
+what it never does.
 
-## 2. Information We Do Not Collect
+## The short version
 
-Tomorrow: Smart Alarms is designed to work **offline** and **without user accounts**. We do **not** collect, store, or share:
+Tomorrow has no servers. It does not have accounts, it does not log you in,
+and it has nothing to upload your data to. Your calendar and your location are
+read on your device, used to calculate a wake-up time, and stay there.
 
-- Personal identification information (name, email, phone number)
-- Location data
-- Device identifiers
-- Financial or payment information
-- Usage analytics or behavioral data
-- Contacts or photos
+## What Tomorrow reads
 
-## 3. Data Storage
+**Your calendar.** With your permission, Tomorrow reads upcoming events —
+their titles, start times and locations — to find the first commitment of your
+day. This is the whole point of the app: the alarm is calculated backwards
+from that event. Events are stored on your device so the app can show your
+plan without re-reading the calendar every time. They are never transmitted.
 
-All game data (settings, progress, preferences) is stored **locally on your device only**. We have no access to this data.
+**Your location.** Only if you grant it, and only to estimate how long your
+commute will take. Your location is not stored, not logged, and not sent
+anywhere.
 
-## 4. Third-Party Services
+**Your settings.** Your morning routine length, arrival buffer, alarm tones,
+and the alarms you create by hand are saved on your device.
 
-Tomorrow: Smart Alarms does **not** integrate any third-party SDKs, analytics tools, advertising networks, or social media platforms.
+## What leaves your device
 
-## 5. Children's Privacy
+One thing: purchases.
 
-Tomorrow: Smart Alarms is suitable for all ages, including children under 13. Since we do not collect any personal data, the App complies with the Children's Online Privacy Protection Act (COPPA) and similar regulations.
+If you subscribe to Tomorrow Plus, the purchase is handled by Apple and by
+**RevenueCat**, which manages subscription status on our behalf. RevenueCat
+receives a randomly generated identifier for your installation, plus the fact
+that a purchase or renewal happened. It does not receive your name, your email
+address, your calendar or your location, and the identifier is not connected
+to any identity we hold — because we do not hold one.
 
-## 6. Changes to This Privacy Policy
+RevenueCat's own privacy policy: https://www.revenuecat.com/privacy
 
-We may update this Privacy Policy from time to time. Any changes will be reflected with an updated "Last updated" date at the top of this page.
+Apple handles the payment itself. Tomorrow never sees your payment details.
 
-## 7. Contact Us
+## What Tomorrow does not do
 
-If you have any questions about this Privacy Policy, please contact us at:
+- No analytics, no tracking, no advertising identifiers
+- No third-party advertising or data brokers
+- No selling or sharing of personal data
+- No profiles built about you
+- No account, so nothing tied to your name or email
 
-**Email:** lidyasoftwarehouse@gmail.com
+## Permissions, and what happens if you decline
 
----
+| Permission | Used for | If you say no |
+|---|---|---|
+| Calendar | Finding your next event | Tomorrow falls back to a sample schedule, and you can enter an arrival time by hand |
+| Location | Estimating commute time | You can set commute time manually |
+| Alarms / Notifications | Actually waking you | Alarms cannot ring; the app still shows your plan |
 
-*This privacy policy was created for Tomorrow: Smart Alarms mobile application.*
+You can change any of these at any time in iOS Settings.
+
+## Deleting your data
+
+Deleting the app removes everything it stored, because everything it stored
+was on your device. There is no server-side copy to request the deletion of.
+
+To cancel a subscription, use Settings → Apple Account → Subscriptions, or the
+subscription management screen inside Tomorrow.
+
+## Children
+
+Tomorrow is not directed at children under 13 and does not knowingly collect
+data from them.
+
+## Changes
+
+If this policy changes in a way that affects what is collected, the app will
+say so before the change takes effect.
+
+## Contact
+
+_Add a contact address here before publishing — Apple requires a reachable
+one._
